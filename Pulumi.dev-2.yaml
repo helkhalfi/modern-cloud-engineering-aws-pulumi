@@ -1,0 +1,11 @@
+config:
+  aws:region: us-east-1
+  pulumi-live-training:dbInstanceSize: db.t3.small
+  pulumi-live-training:dbName: customerdb
+  pulumi-live-training:dbPassword:
+    secure: AAABAFToime/Sf9ftAcY+2E9oUy9/0fBUVjlOuWfw0nQ/rwy8VcvR8YgnX8GQ3YtHQ==
+  pulumi-live-training:dbUsername: admin
+  pulumi-live-training:ec2InstanceSize: t3.small
+  pulumi-live-training:env_name: dev-2
+  pulumi-live-training:privateKeyPath: customerdb-keypair
+  pulumi-live-training:publicKeyPath: customerdb-keypair.pub

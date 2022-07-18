@@ -1,0 +1,6 @@
+name: pulumi-live-training
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Cloud Engineering with AWS and Pulumi
