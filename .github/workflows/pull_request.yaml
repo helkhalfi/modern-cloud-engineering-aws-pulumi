@@ -20,6 +20,6 @@ jobs:
       - uses: pulumi/actions@v3
         with:
           command: preview
-          stack-name: dev
+          stack-name: dev-2
         env:
           PULUMI_ACCESS_TOKEN: ${{ secrets.PULUMI_ACCESS_TOKEN }}
