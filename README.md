@@ -1,6 +1,6 @@
 # Modern Cloud Infrastructure with AWS and Pulumi
 
-This is a companion github repository for the Oreilly live training [Modern Cloud Infrastructure with AWS and Pulumi](https://learning.oreilly.com/live-events/modern-cloud-infrastructure-with-aws-and-pulumi/0636920074622/0636920074621/)
+This is the companion github repository for the Oreilly live training [Modern Cloud Infrastructure with AWS and Pulumi](https://learning.oreilly.com/live-events/modern-cloud-infrastructure-with-aws-and-pulumi/0636920074622/0636920074621/)
 
 # Install Pulumi
 https://www.pulumi.com/docs/get-started/install/
